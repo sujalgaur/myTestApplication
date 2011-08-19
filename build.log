@@ -1,0 +1,33 @@
+Logfile initialized
+[INFO] logfile = /home/jitendra/Titanium Studio Workspace/myTestApplication/build.log
+[DEBUG] /home/jitendra/.titanium/mobilesdk/linux/1.7.2/android/builder.py simulator myTestApplication /home/jitendra/opt/android-sdk-linux_x86 /home/jitendra/Titanium Studio Workspace/myTestApplication com.sujal.myTestApplication 7 HVGA 
+[INFO] Building myTestApplication for Android ... one moment
+[INFO] Titanium SDK version: 1.7.2 (07/21/11 09:36 97c3689)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.006928 seconds on emulator to get ready
+[DEBUG] com.sujal.myTestApplication installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/main_windows/tweet.js => /home/jitendra/Titanium Studio Workspace/myTestApplication/build/android/bin/assets/Resources/main_windows/tweet.js
+[TRACE] COPYING MODIFIED FILE: /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/main_windows/news_rss.js => /home/jitendra/Titanium Studio Workspace/myTestApplication/build/android/bin/assets/Resources/main_windows/news_rss.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-long-land-hdpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /home/jitendra/Titanium Studio Workspace/myTestApplication/Resources/android/images/res-long-land-ldpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... myTestApplication
+[INFO] Launching application ... myTestApplication
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.sujal.myTestApplication/.MytestapplicationActivity }
+Warning: Activity not started, its current task has been brought to the front
+
+[INFO] Android Emulator has exited
